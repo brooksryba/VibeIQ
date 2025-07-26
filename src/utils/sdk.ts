@@ -90,13 +90,9 @@ export class ItemAPI {
     }
 
     public static postItems(items: Array<ItemModel>): Promise<unknown> {
-        return SDK.instance.chunk(
-            items,
-            ItemAPI.batchSize,
-            ((chunk) => {
-                return SDK.instance.post('/items/batch', { items: chunk });
-            })
-        )
+        return SDK.instance.chunk(items, ItemAPI.batchSize, (chunk) => {
+            return SDK.instance.post('/items/batch', { items: chunk });
+        });
     }
 
     public static putItem(item: Entry<ItemModel>): Promise<unknown> {
@@ -104,12 +100,8 @@ export class ItemAPI {
     }
 
     public static putItems(items: Array<ItemModel>): Promise<unknown> {
-        return SDK.instance.chunk(
-            items,
-            ItemAPI.batchSize,
-            ((chunk) => {
-                return SDK.instance.put('/items/batch', { items: chunk });
-            })
-        )
+        return SDK.instance.chunk(items, ItemAPI.batchSize, (chunk) => {
+            return SDK.instance.put('/items/batch', { items: chunk });
+        });
     }
 }

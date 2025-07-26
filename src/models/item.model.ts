@@ -33,9 +33,6 @@ export class Item implements ItemModel {
     }
 
     public compare(comparator: ItemModel) {
-        return (
-            this.name === comparator.name &&
-            this.description === comparator.description
-        );
+        return this.name === comparator.name && this.description === comparator.description;
     }
 }

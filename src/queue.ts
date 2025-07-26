@@ -47,7 +47,7 @@ export class Queue {
             this._bufferItems[item.federatedId] = item;
             await this._check();
         } catch (error: any) {
-            if(error instanceof Error) {
+            if (error instanceof Error) {
                 // This will capture errors thrown by the API.
                 Logger.error(`Could not process records`, { extractId: this._extractId, ...error });
             }
@@ -72,7 +72,9 @@ export class Queue {
     }
 
     public async flush() {
-        Logger.info(`Flushing ${this._bufferCount} records from queue`, { extractId: this._extractId })
+        Logger.info(`Flushing ${this._bufferCount} records from queue`, {
+            extractId: this._extractId,
+        });
 
         const bufferItemKeys = Object.keys(this._bufferItems);
         const bufferFamilyKeys = Object.keys(this._bufferFamilyIds);
@@ -128,7 +130,7 @@ export class Queue {
                         ...item,
                     });
                 }
-            } else if(!(item.federatedId in this._familyItems)) {
+            } else if (!(item.federatedId in this._familyItems)) {
                 // We check to see that this is not a family that we are already planning to
                 // create above, which would result in a duplicated record if the federatedId
                 // field is not a unique key in the database.

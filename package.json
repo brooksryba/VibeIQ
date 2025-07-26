@@ -6,7 +6,8 @@
     "build": "tsc",
     "start": "node dist/index.js",
     "dev": "ts-node-dev src/index.ts",
-    "cleanup": "rm -rf ./logs/* ./uploads/*"
+    "cleanup": "rm -rf ./logs/* ./uploads/*",
+    "lint": "npx prettier --write \"**/*.ts\""
   },
   "devDependencies": {
     "@types/express": "^5.0.3",

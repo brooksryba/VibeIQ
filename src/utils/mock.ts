@@ -12,15 +12,18 @@ export function mock_api(app: Express) {
     const router = Router();
     const memoryDB: Record<Entry<ItemModel>['id'], Entry<ItemModel>> = {};
 
-    router.get('/byFederatedIds', (req: Request<{}, {}, {}, GetFederatedIdsRequest>, res: Response) => {
-        const federatedIds = req.query.federatedIds.split(',');
+    router.get(
+        '/byFederatedIds',
+        (req: Request<{}, {}, {}, GetFederatedIdsRequest>, res: Response) => {
+            const federatedIds = req.query.federatedIds.split(',');
 
-        const filteredItems = Object.values(memoryDB).filter((item) => {
-            return item.federatedId in federatedIds;
-        });
+            const filteredItems = Object.values(memoryDB).filter((item) => {
+                return item.federatedId in federatedIds;
+            });
 
-        res.json({ items: filteredItems });
-    });
+            res.json({ items: filteredItems });
+        }
+    );
 
     router.post('/batch', (req: Request<{}, {}, BatchItemsRequest>, res) => {
         req.body.items.forEach((item) => {
@@ -31,7 +34,7 @@ export function mock_api(app: Express) {
             };
         });
 
-        res.json({ success: true })
+        res.json({ success: true });
     });
 
     router.put('/batch', (req: Request<{}, {}, BatchItemsRequest>, res) => {
@@ -39,12 +42,12 @@ export function mock_api(app: Express) {
             memoryDB[item.id] = item;
         });
 
-        res.json({ success: true })
+        res.json({ success: true });
     });
 
     router.get('/all', (req, res) => {
-        res.json({ items: Object.values(memoryDB) })
-    })
+        res.json({ items: Object.values(memoryDB) });
+    });
 
     app.use('/items', router);
 }
