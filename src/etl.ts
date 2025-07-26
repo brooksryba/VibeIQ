@@ -16,12 +16,11 @@ export function columnParser(value: string): string | null {
 export async function extractData(file: Express.Multer.File): Promise<unknown> {
     const filePath = path.resolve(file.path);
     const extractId = file.filename;
-    const queue = new Queue(extractId);
 
     // Initialize the csv parser in a streaming format to process
     // the entire file in pieces. This avoids loading the whole file
     // into memory at once.
-    return csv({
+    const parser = csv({
         colParser: {
             familyFederatedId: columnParser,
             optionFederatedId: columnParser,
@@ -30,16 +29,30 @@ export async function extractData(file: Express.Multer.File): Promise<unknown> {
         },
         checkType: true,
     })
+
+    const queue = new Queue(extractId, parser);
+
+    return parser
         .fromFile(filePath)
-        .subscribe(
-            (record, lineNumber) => { transformData(extractId, queue, record, lineNumber) },
-            () => { onTransformError(extractId) },
-            () => { onTransformComplete(extractId, queue) }
-        );
+        .on('data', async (record) => {
+            const itemRecord = JSON.parse(record.toString('utf-8'))
+            await transformData(extractId, queue, itemRecord, 0)
+        })
+        .on('error', (error: Error) => {
+            onTransformError(extractId, error)
+        })
+        .on('end', () => {
+            onTransformComplete(extractId, queue)
+        })
+        // .subscribe(
+        //     (record, lineNumber) => { transformData(extractId, queue, record, lineNumber) },
+        //     () => { onTransformError(extractId) },
+        //     () => { onTransformComplete(extractId, queue) }
+        // )
 }
 
-export async function onTransformError(extractId: string) {
-    Logger.error(`Extract ${extractId} could not complete!`);
+export async function onTransformError(extractId: string, error: Error) {
+    Logger.error(`Extract could not complete!`, { extractId, ...error });
 }
 
 export async function onTransformComplete(extractId: string, queue: Queue) {
@@ -47,7 +60,7 @@ export async function onTransformComplete(extractId: string, queue: Queue) {
     // batching strategy.
     await queue.flush();
 
-    Logger.info(`Extract ${extractId} completed!`);
+    Logger.info(`Extract completed!`, { extractId });
 }
 
 export function transformItemRecord(record: CSVRecordModel): Item {
@@ -79,10 +92,12 @@ export async function transformData(extractId: string, queue: Queue, record: CSV
             // to reduce network overhead and improve throughput.
             const itemRecord = transformItemRecord(record);
             await queue.add(itemRecord);
-        } catch (error) {
-            // In the future, we could expect that other errors could occur
-            // when transforming the data. This
-            Logger.error(`(${extractId}: Line ${lineNumber+1}) Could not transform record`, { error });
+        } catch (error: any) {
+            if(error instanceof Error) {
+                // In the future, we could expect that other errors could occur
+                // when transforming the data. This
+                Logger.error(`Could not transform record`, { extractId, lineNumber, ...error });
+            }
         }
 
         // Always resolve the promise so that we can process all records,

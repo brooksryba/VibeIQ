@@ -42,5 +42,9 @@ export function mock_api(app: Express) {
         res.json({ success: true })
     });
 
+    router.get('/all', (req, res) => {
+        res.json({ items: Object.values(memoryDB) })
+    })
+
     app.use('/items', router);
 }

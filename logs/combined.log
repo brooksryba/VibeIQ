@@ -3226,3 +3226,1389 @@
 {"level":"info","message":"(fa5e722c3372f7182c9b8ee2a8b2f7e4) Cleaning up records from queue","timestamp":"2025-07-26T21:42:50.423Z"}
 {"level":"info","message":"call1","timestamp":"2025-07-26T21:42:50.423Z"}
 {"level":"info","message":"(fa5e722c3372f7182c9b8ee2a8b2f7e4) Cleaning up records from queue","timestamp":"2025-07-26T21:42:50.424Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2025-07-26T21:49:59.402Z"}
+{"level":"info","message":"Extract 888a3f663dc33c7ea7a20f374db3b2d8 launched","timestamp":"2025-07-26T21:49:59.565Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 10 records from queue","timestamp":"2025-07-26T21:49:59.575Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.575Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 11 records from queue","timestamp":"2025-07-26T21:49:59.591Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.592Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 12 records from queue","timestamp":"2025-07-26T21:49:59.593Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.593Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 13 records from queue","timestamp":"2025-07-26T21:49:59.594Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.594Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 14 records from queue","timestamp":"2025-07-26T21:49:59.595Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.595Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 15 records from queue","timestamp":"2025-07-26T21:49:59.596Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.596Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 16 records from queue","timestamp":"2025-07-26T21:49:59.597Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.597Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 17 records from queue","timestamp":"2025-07-26T21:49:59.597Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.598Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 18 records from queue","timestamp":"2025-07-26T21:49:59.598Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.598Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 19 records from queue","timestamp":"2025-07-26T21:49:59.599Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.599Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 20 records from queue","timestamp":"2025-07-26T21:49:59.600Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.600Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 21 records from queue","timestamp":"2025-07-26T21:49:59.601Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.601Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 22 records from queue","timestamp":"2025-07-26T21:49:59.601Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.601Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 23 records from queue","timestamp":"2025-07-26T21:49:59.602Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.602Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 24 records from queue","timestamp":"2025-07-26T21:49:59.603Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.603Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 25 records from queue","timestamp":"2025-07-26T21:49:59.604Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.604Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 26 records from queue","timestamp":"2025-07-26T21:49:59.604Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.604Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 27 records from queue","timestamp":"2025-07-26T21:49:59.605Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.605Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 28 records from queue","timestamp":"2025-07-26T21:49:59.606Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.606Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 29 records from queue","timestamp":"2025-07-26T21:49:59.607Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.607Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 30 records from queue","timestamp":"2025-07-26T21:49:59.608Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.608Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 31 records from queue","timestamp":"2025-07-26T21:49:59.609Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.609Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 32 records from queue","timestamp":"2025-07-26T21:49:59.610Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.610Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 33 records from queue","timestamp":"2025-07-26T21:49:59.611Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.611Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 34 records from queue","timestamp":"2025-07-26T21:49:59.611Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.611Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 35 records from queue","timestamp":"2025-07-26T21:49:59.612Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.612Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 36 records from queue","timestamp":"2025-07-26T21:49:59.613Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.613Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 37 records from queue","timestamp":"2025-07-26T21:49:59.613Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.613Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 38 records from queue","timestamp":"2025-07-26T21:49:59.614Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.614Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 39 records from queue","timestamp":"2025-07-26T21:49:59.614Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.615Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 40 records from queue","timestamp":"2025-07-26T21:49:59.615Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.615Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 41 records from queue","timestamp":"2025-07-26T21:49:59.615Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.616Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 42 records from queue","timestamp":"2025-07-26T21:49:59.616Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.617Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 43 records from queue","timestamp":"2025-07-26T21:49:59.617Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.617Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 44 records from queue","timestamp":"2025-07-26T21:49:59.618Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.618Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 45 records from queue","timestamp":"2025-07-26T21:49:59.618Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.618Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 46 records from queue","timestamp":"2025-07-26T21:49:59.619Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.619Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 47 records from queue","timestamp":"2025-07-26T21:49:59.619Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.619Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 48 records from queue","timestamp":"2025-07-26T21:49:59.620Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.620Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 49 records from queue","timestamp":"2025-07-26T21:49:59.620Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.620Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 50 records from queue","timestamp":"2025-07-26T21:49:59.627Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.628Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Flushing 50 records from queue","timestamp":"2025-07-26T21:49:59.628Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:49:59.628Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.773Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.773Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.773Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.777Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.777Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.777Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.929Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.929Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.929Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.931Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.931Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.931Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.932Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.932Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.932Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.933Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.933Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.933Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.934Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.934Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.934Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.935Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.935Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.935Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.936Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.936Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.937Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.938Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.938Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.938Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.939Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.939Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.939Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.940Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.940Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.940Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.941Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.941Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.941Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.942Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.942Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.943Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.944Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.944Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.944Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.947Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.947Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.947Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.948Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.948Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.948Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.949Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.949Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.949Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.950Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.950Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.950Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.951Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.951Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.951Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.952Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.952Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.952Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.953Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.953Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.953Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.954Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.954Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.954Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.955Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.955Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.955Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.956Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.956Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.956Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.956Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.956Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.957Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.957Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.957Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.958Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.958Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.959Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.959Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.959Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.960Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.960Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.960Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.961Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.961Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.962Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.962Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.962Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.963Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.963Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.963Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.964Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.964Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.964Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.964Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.965Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.965Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.965Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.965Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.966Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.966Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.967Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.967Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.968Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.968Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.968Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.968Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.969Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.969Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.969Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.969Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.970Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.970Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.970Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.970Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.971Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.971Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.971Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:49:59.972Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:49:59.972Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:49:59.972Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.134Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.134Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.135Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.135Z"}
+{"level":"info","message":"Extract 888a3f663dc33c7ea7a20f374db3b2d8 completed!","timestamp":"2025-07-26T21:50:00.135Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.150Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.150Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.151Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.151Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.151Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.151Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.152Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.152Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.152Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.152Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.152Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.152Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.153Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.153Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.153Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.153Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.154Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.154Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.154Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.154Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.155Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.155Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.155Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.155Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.155Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.156Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.156Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.156Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.157Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.157Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.157Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.157Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.157Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.158Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.158Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.158Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.158Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.158Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.159Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.159Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.159Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.159Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.160Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.160Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.160Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.160Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.160Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.161Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.161Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.161Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.161Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.161Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.162Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.162Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.162Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.162Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.163Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.163Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.163Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.163Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.164Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.164Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.164Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.164Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.164Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.165Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.165Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.165Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.165Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.165Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.166Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.166Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.166Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.166Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.167Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.167Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.167Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.167Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:50:00.168Z"}
+{"level":"info","message":"(888a3f663dc33c7ea7a20f374db3b2d8) Cleaning up records from queue","timestamp":"2025-07-26T21:50:00.168Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2025-07-26T21:56:21.272Z"}
+{"level":"info","message":"Extract 93fb9438a475b091f8239f4298a0508e launched","timestamp":"2025-07-26T21:56:26.370Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 10 records from queue","timestamp":"2025-07-26T21:56:26.379Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.380Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 11 records from queue","timestamp":"2025-07-26T21:56:26.397Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.397Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 12 records from queue","timestamp":"2025-07-26T21:56:26.398Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.398Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 13 records from queue","timestamp":"2025-07-26T21:56:26.399Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.399Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 14 records from queue","timestamp":"2025-07-26T21:56:26.400Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.400Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 15 records from queue","timestamp":"2025-07-26T21:56:26.401Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.401Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 16 records from queue","timestamp":"2025-07-26T21:56:26.401Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.402Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 17 records from queue","timestamp":"2025-07-26T21:56:26.402Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.402Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 18 records from queue","timestamp":"2025-07-26T21:56:26.403Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.403Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 19 records from queue","timestamp":"2025-07-26T21:56:26.404Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.404Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 20 records from queue","timestamp":"2025-07-26T21:56:26.405Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.405Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 21 records from queue","timestamp":"2025-07-26T21:56:26.406Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.406Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 22 records from queue","timestamp":"2025-07-26T21:56:26.406Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.406Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 23 records from queue","timestamp":"2025-07-26T21:56:26.407Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.407Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 24 records from queue","timestamp":"2025-07-26T21:56:26.408Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.408Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 25 records from queue","timestamp":"2025-07-26T21:56:26.408Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.408Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 26 records from queue","timestamp":"2025-07-26T21:56:26.409Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.409Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 27 records from queue","timestamp":"2025-07-26T21:56:26.410Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.410Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 28 records from queue","timestamp":"2025-07-26T21:56:26.410Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.410Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 29 records from queue","timestamp":"2025-07-26T21:56:26.411Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.411Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 30 records from queue","timestamp":"2025-07-26T21:56:26.412Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.412Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 31 records from queue","timestamp":"2025-07-26T21:56:26.412Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.412Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 32 records from queue","timestamp":"2025-07-26T21:56:26.413Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.413Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 33 records from queue","timestamp":"2025-07-26T21:56:26.414Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.414Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 34 records from queue","timestamp":"2025-07-26T21:56:26.414Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.414Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 35 records from queue","timestamp":"2025-07-26T21:56:26.415Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.415Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 36 records from queue","timestamp":"2025-07-26T21:56:26.415Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.416Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 37 records from queue","timestamp":"2025-07-26T21:56:26.416Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.416Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 38 records from queue","timestamp":"2025-07-26T21:56:26.417Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.417Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 39 records from queue","timestamp":"2025-07-26T21:56:26.417Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.417Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 40 records from queue","timestamp":"2025-07-26T21:56:26.418Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.418Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 41 records from queue","timestamp":"2025-07-26T21:56:26.418Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.418Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 42 records from queue","timestamp":"2025-07-26T21:56:26.419Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.419Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 43 records from queue","timestamp":"2025-07-26T21:56:26.419Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.419Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 44 records from queue","timestamp":"2025-07-26T21:56:26.420Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.420Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 45 records from queue","timestamp":"2025-07-26T21:56:26.420Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.420Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 46 records from queue","timestamp":"2025-07-26T21:56:26.421Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.421Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 47 records from queue","timestamp":"2025-07-26T21:56:26.422Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.422Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 48 records from queue","timestamp":"2025-07-26T21:56:26.422Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.422Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 49 records from queue","timestamp":"2025-07-26T21:56:26.423Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.423Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 50 records from queue","timestamp":"2025-07-26T21:56:26.430Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.430Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Flushing 50 records from queue","timestamp":"2025-07-26T21:56:26.430Z"}
+{"level":"info","message":"call5","timestamp":"2025-07-26T21:56:26.430Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.593Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.593Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.594Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.596Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.596Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.596Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.736Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.736Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.736Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.737Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.737Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.737Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.738Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.738Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.738Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.739Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.739Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.739Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.740Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.740Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.740Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.741Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.742Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.742Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.743Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.743Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.743Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.744Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.744Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.744Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.745Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.745Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.745Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.746Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.746Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.746Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.747Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.747Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.748Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.748Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.748Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.749Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.749Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.750Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.750Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.752Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.753Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.753Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.754Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.754Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.754Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.755Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.755Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.755Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.755Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.756Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.756Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.756Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.756Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.757Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.757Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.757Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.757Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.758Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.758Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.758Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.759Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.759Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.759Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.760Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.760Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.760Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.761Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.761Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.761Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.762Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.762Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.762Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.763Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.763Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.763Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.764Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.764Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.764Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.765Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.765Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.765Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.766Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.766Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.766Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.767Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.767Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.767Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.767Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.768Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.768Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.768Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.769Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.769Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.769Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.769Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.769Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.770Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.770Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.770Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.771Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.771Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.771Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.772Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.772Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.772Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.773Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.773Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.773Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.774Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.774Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.774Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.775Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.775Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.775Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.776Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.776Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.776Z"}
+{"level":"info","message":"call4","timestamp":"2025-07-26T21:56:26.777Z"}
+{"level":"info","message":"call3","timestamp":"2025-07-26T21:56:26.777Z"}
+{"level":"info","message":"call2","timestamp":"2025-07-26T21:56:26.777Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.932Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.933Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.933Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.933Z"}
+{"level":"info","message":"Extract 93fb9438a475b091f8239f4298a0508e completed!","timestamp":"2025-07-26T21:56:26.933Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.948Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.948Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.949Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.949Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.949Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.949Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.950Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.950Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.950Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.950Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.950Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.951Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.951Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.951Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.951Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.951Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.952Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.952Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.952Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.952Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.953Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.953Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.953Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.953Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.953Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.953Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.954Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.954Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.954Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.955Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.955Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.955Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.955Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.955Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.956Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.956Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.956Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.956Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.957Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.957Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.957Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.957Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.958Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.958Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.958Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.958Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.958Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.958Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.959Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.959Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.959Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.959Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.960Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.960Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.960Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.960Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.961Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.961Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.961Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.961Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.961Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.961Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.962Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.962Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.962Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.962Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.963Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.963Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.963Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.963Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.964Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.964Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.964Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.964Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.964Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.965Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.965Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.965Z"}
+{"level":"info","message":"call1","timestamp":"2025-07-26T21:56:26.965Z"}
+{"level":"info","message":"(93fb9438a475b091f8239f4298a0508e) Cleaning up records from queue","timestamp":"2025-07-26T21:56:26.965Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2025-07-26T21:57:29.749Z"}
+{"level":"info","message":"Extract 045549e751481e4dffa8bf94e84f1ead launched","timestamp":"2025-07-26T21:57:31.363Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 10 records from queue","timestamp":"2025-07-26T21:57:31.372Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 11 records from queue","timestamp":"2025-07-26T21:57:31.388Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 12 records from queue","timestamp":"2025-07-26T21:57:31.390Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 13 records from queue","timestamp":"2025-07-26T21:57:31.391Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 14 records from queue","timestamp":"2025-07-26T21:57:31.391Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 15 records from queue","timestamp":"2025-07-26T21:57:31.392Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 16 records from queue","timestamp":"2025-07-26T21:57:31.393Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 17 records from queue","timestamp":"2025-07-26T21:57:31.393Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 18 records from queue","timestamp":"2025-07-26T21:57:31.394Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 19 records from queue","timestamp":"2025-07-26T21:57:31.395Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 20 records from queue","timestamp":"2025-07-26T21:57:31.396Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 21 records from queue","timestamp":"2025-07-26T21:57:31.396Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 22 records from queue","timestamp":"2025-07-26T21:57:31.397Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 23 records from queue","timestamp":"2025-07-26T21:57:31.397Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 24 records from queue","timestamp":"2025-07-26T21:57:31.398Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 25 records from queue","timestamp":"2025-07-26T21:57:31.398Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 26 records from queue","timestamp":"2025-07-26T21:57:31.399Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 27 records from queue","timestamp":"2025-07-26T21:57:31.400Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 28 records from queue","timestamp":"2025-07-26T21:57:31.400Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 29 records from queue","timestamp":"2025-07-26T21:57:31.401Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 30 records from queue","timestamp":"2025-07-26T21:57:31.401Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 31 records from queue","timestamp":"2025-07-26T21:57:31.402Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 32 records from queue","timestamp":"2025-07-26T21:57:31.403Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 33 records from queue","timestamp":"2025-07-26T21:57:31.403Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 34 records from queue","timestamp":"2025-07-26T21:57:31.404Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 35 records from queue","timestamp":"2025-07-26T21:57:31.404Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 36 records from queue","timestamp":"2025-07-26T21:57:31.405Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 37 records from queue","timestamp":"2025-07-26T21:57:31.405Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 38 records from queue","timestamp":"2025-07-26T21:57:31.405Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 39 records from queue","timestamp":"2025-07-26T21:57:31.406Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 40 records from queue","timestamp":"2025-07-26T21:57:31.406Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 41 records from queue","timestamp":"2025-07-26T21:57:31.406Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 42 records from queue","timestamp":"2025-07-26T21:57:31.407Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 43 records from queue","timestamp":"2025-07-26T21:57:31.407Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 44 records from queue","timestamp":"2025-07-26T21:57:31.408Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 45 records from queue","timestamp":"2025-07-26T21:57:31.408Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 46 records from queue","timestamp":"2025-07-26T21:57:31.408Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 47 records from queue","timestamp":"2025-07-26T21:57:31.409Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 48 records from queue","timestamp":"2025-07-26T21:57:31.409Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 49 records from queue","timestamp":"2025-07-26T21:57:31.410Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 50 records from queue","timestamp":"2025-07-26T21:57:31.414Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Flushing 50 records from queue","timestamp":"2025-07-26T21:57:31.415Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.905Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.906Z"}
+{"level":"info","message":"Extract 045549e751481e4dffa8bf94e84f1ead completed!","timestamp":"2025-07-26T21:57:31.906Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.921Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.921Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.921Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.922Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.922Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.923Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.923Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.923Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.924Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.924Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.925Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.925Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.925Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.926Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.926Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.926Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.927Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.927Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.927Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.928Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.928Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.929Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.929Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.929Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.930Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.930Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.930Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.931Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.931Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.931Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.932Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.932Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.932Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.933Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.933Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.934Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.934Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.934Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.935Z"}
+{"level":"info","message":"(045549e751481e4dffa8bf94e84f1ead) Cleaning up records from queue","timestamp":"2025-07-26T21:57:31.935Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2025-07-26T22:09:01.762Z"}
+{"level":"info","message":"Extract 58f61f76d3f066b35da221d2dbdb0530 launched","timestamp":"2025-07-26T22:09:07.033Z"}
+{"level":"info","message":"(58f61f76d3f066b35da221d2dbdb0530) Flushing 50 records from queue","timestamp":"2025-07-26T22:09:07.044Z"}
+{"level":"info","message":"(58f61f76d3f066b35da221d2dbdb0530) Flushing 50 records from queue","timestamp":"2025-07-26T22:09:07.059Z"}
+{"level":"info","message":"(58f61f76d3f066b35da221d2dbdb0530) Cleaning up records from queue","timestamp":"2025-07-26T22:09:07.244Z"}
+{"level":"info","message":"Extract 58f61f76d3f066b35da221d2dbdb0530 completed!","timestamp":"2025-07-26T22:09:07.244Z"}
+{"level":"info","message":"(58f61f76d3f066b35da221d2dbdb0530) Cleaning up records from queue","timestamp":"2025-07-26T22:09:07.245Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2025-07-26T22:10:09.240Z"}
+{"level":"info","message":"Extract 7c0b98fc4c4b8168846e9d7a8eace9b1 launched","timestamp":"2025-07-26T22:10:11.005Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 10 records from queue","timestamp":"2025-07-26T22:10:11.014Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 11 records from queue","timestamp":"2025-07-26T22:10:11.031Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 12 records from queue","timestamp":"2025-07-26T22:10:11.032Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 13 records from queue","timestamp":"2025-07-26T22:10:11.033Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 14 records from queue","timestamp":"2025-07-26T22:10:11.033Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 15 records from queue","timestamp":"2025-07-26T22:10:11.034Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 16 records from queue","timestamp":"2025-07-26T22:10:11.035Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 17 records from queue","timestamp":"2025-07-26T22:10:11.035Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 18 records from queue","timestamp":"2025-07-26T22:10:11.036Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 19 records from queue","timestamp":"2025-07-26T22:10:11.037Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 20 records from queue","timestamp":"2025-07-26T22:10:11.038Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 21 records from queue","timestamp":"2025-07-26T22:10:11.038Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 22 records from queue","timestamp":"2025-07-26T22:10:11.039Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 23 records from queue","timestamp":"2025-07-26T22:10:11.039Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 24 records from queue","timestamp":"2025-07-26T22:10:11.040Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 25 records from queue","timestamp":"2025-07-26T22:10:11.041Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 26 records from queue","timestamp":"2025-07-26T22:10:11.041Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 27 records from queue","timestamp":"2025-07-26T22:10:11.042Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 28 records from queue","timestamp":"2025-07-26T22:10:11.043Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 29 records from queue","timestamp":"2025-07-26T22:10:11.043Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 30 records from queue","timestamp":"2025-07-26T22:10:11.044Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 31 records from queue","timestamp":"2025-07-26T22:10:11.044Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 32 records from queue","timestamp":"2025-07-26T22:10:11.045Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 33 records from queue","timestamp":"2025-07-26T22:10:11.045Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 34 records from queue","timestamp":"2025-07-26T22:10:11.046Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 35 records from queue","timestamp":"2025-07-26T22:10:11.046Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 36 records from queue","timestamp":"2025-07-26T22:10:11.047Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 37 records from queue","timestamp":"2025-07-26T22:10:11.047Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 38 records from queue","timestamp":"2025-07-26T22:10:11.048Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 39 records from queue","timestamp":"2025-07-26T22:10:11.048Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 40 records from queue","timestamp":"2025-07-26T22:10:11.048Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 41 records from queue","timestamp":"2025-07-26T22:10:11.049Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 42 records from queue","timestamp":"2025-07-26T22:10:11.049Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 43 records from queue","timestamp":"2025-07-26T22:10:11.050Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 44 records from queue","timestamp":"2025-07-26T22:10:11.050Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 45 records from queue","timestamp":"2025-07-26T22:10:11.051Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 46 records from queue","timestamp":"2025-07-26T22:10:11.051Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 47 records from queue","timestamp":"2025-07-26T22:10:11.052Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 48 records from queue","timestamp":"2025-07-26T22:10:11.052Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 49 records from queue","timestamp":"2025-07-26T22:10:11.052Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 50 records from queue","timestamp":"2025-07-26T22:10:11.058Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Flushing 50 records from queue","timestamp":"2025-07-26T22:10:11.059Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.543Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.543Z"}
+{"level":"info","message":"Extract 7c0b98fc4c4b8168846e9d7a8eace9b1 completed!","timestamp":"2025-07-26T22:10:11.543Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.558Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.559Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.559Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.559Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.560Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.560Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.560Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.561Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.561Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.561Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.562Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.562Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.563Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.563Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.563Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.564Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.564Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.565Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.565Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.565Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.566Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.567Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.567Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.567Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.568Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.568Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.569Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.569Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.569Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.570Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.570Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.571Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.571Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.572Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.572Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.572Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.573Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.574Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.574Z"}
+{"level":"info","message":"(7c0b98fc4c4b8168846e9d7a8eace9b1) Cleaning up records from queue","timestamp":"2025-07-26T22:10:11.575Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2025-07-26T22:11:40.491Z"}
+{"level":"info","message":"Extract 9bc535cfd0e8b6c429d6e49569fa534f launched","timestamp":"2025-07-26T22:11:42.224Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.244Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.244Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.245Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.245Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.245Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.245Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.245Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.246Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.246Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.246Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.246Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.247Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.247Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.247Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.247Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.248Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.248Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.248Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.248Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.248Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.248Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.249Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.249Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.249Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.249Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.249Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.249Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.250Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.250Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.250Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.250Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.250Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.250Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.250Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.250Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.250Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.250Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.251Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.251Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.251Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.251Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.251Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.251Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.251Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.251Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.252Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.252Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.252Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.252Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.252Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.252Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.252Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.252Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.252Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.252Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.252Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.253Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.253Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.253Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.253Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.253Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.253Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.253Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.253Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.253Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.253Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.253Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.253Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.254Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.254Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.254Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.254Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.254Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.254Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.254Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.254Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.254Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.254Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.254Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.255Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.255Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.255Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.255Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.255Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.255Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.255Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.255Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.255Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.255Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:11:42.257Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:11:42.258Z"}
+{"level":"info","message":"(9bc535cfd0e8b6c429d6e49569fa534f) Flushing 50 records from queue","timestamp":"2025-07-26T22:11:42.258Z"}
+{"level":"info","message":"(9bc535cfd0e8b6c429d6e49569fa534f) Flushing 50 records from queue","timestamp":"2025-07-26T22:11:42.284Z"}
+{"level":"info","message":"(9bc535cfd0e8b6c429d6e49569fa534f) Cleaning up records from queue","timestamp":"2025-07-26T22:11:42.466Z"}
+{"level":"info","message":"Extract 9bc535cfd0e8b6c429d6e49569fa534f completed!","timestamp":"2025-07-26T22:11:42.466Z"}
+{"level":"info","message":"(9bc535cfd0e8b6c429d6e49569fa534f) Cleaning up records from queue","timestamp":"2025-07-26T22:11:42.467Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2025-07-26T22:14:37.763Z"}
+{"level":"info","message":"Extract b2c408e096801973be6648a8e405b720 launched","timestamp":"2025-07-26T22:14:39.594Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.612Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.613Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.613Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.613Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.613Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.614Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.614Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.614Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.614Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.615Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.615Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.615Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.615Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.615Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.615Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.615Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.616Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.616Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.616Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.616Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.616Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.616Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.617Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.617Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.617Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.617Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.617Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.617Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.617Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.617Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.618Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.618Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.618Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.618Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.618Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.618Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.618Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.618Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.619Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.619Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.619Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.619Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.619Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.619Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.619Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.620Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.620Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.620Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.620Z"}
+{"error":{},"level":"error","message":"(b2c408e096801973be6648a8e405b720: Line 1) Could not transform record","timestamp":"2025-07-26T22:14:39.622Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2025-07-26T22:15:46.602Z"}
+{"level":"info","message":"Extract 1a3b95d12192140f8d54014e0e387dfe launched","timestamp":"2025-07-26T22:15:48.717Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,79,69,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,110,117,108,108,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,82,117,110,110,105,110,103,32,83,104,111,101,115,34,44,34,100,101,116,97,105,108,115,34,58,34,80,101,114,102,111,114,109,97,110,99,101,32,115,104,111,101,115,32,102,111,114,32,100,97,105,108,121,32,116,114,97,105,110,105,110,103,32,97,110,100,32,114,97,99,105,110,103,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.726Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.726Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,79,69,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,48,49,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,65,105,114,32,90,111,111,109,32,80,101,103,97,115,117,115,32,52,48,34,44,34,100,101,116,97,105,108,115,34,58,34,82,101,115,112,111,110,115,105,118,101,32,99,117,115,104,105,111,110,105,110,103,32,97,110,100,32,98,114,101,97,116,104,97,98,108,101,32,117,112,112,101,114,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.727Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.727Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,79,69,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,48,50,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,73,110,102,105,110,105,116,121,82,78,32,52,34,44,34,100,101,116,97,105,108,115,34,58,34,83,116,97,98,108,101,32,108,111,110,103,45,100,105,115,116,97,110,99,101,32,115,104,111,101,32,119,105,116,104,32,82,101,97,99,116,88,32,102,111,97,109,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.727Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.727Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,79,69,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,48,51,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,86,97,112,111,114,102,108,121,32,51,34,44,34,100,101,116,97,105,108,115,34,58,34,69,108,105,116,101,32,114,97,99,105,110,103,32,115,104,111,101,32,119,105,116,104,32,99,97,114,98,111,110,32,112,108,97,116,101,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.728Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.728Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,79,69,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,48,52,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,90,111,111,109,88,32,83,116,114,101,97,107,102,108,121,34,44,34,100,101,116,97,105,108,115,34,58,34,76,105,103,104,116,119,101,105,103,104,116,32,114,97,99,101,32,100,97,121,32,115,104,111,101,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.728Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.728Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,79,69,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,48,53,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,87,105,108,100,104,111,114,115,101,32,56,34,44,34,100,101,116,97,105,108,115,34,58,34,84,114,97,105,108,32,114,117,110,110,105,110,103,32,115,104,111,101,32,119,105,116,104,32,114,111,99,107,32,112,108,97,116,101,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.728Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.728Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,79,69,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,48,54,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,82,101,118,111,108,117,116,105,111,110,32,54,34,44,34,100,101,116,97,105,108,115,34,58,34,69,118,101,114,121,100,97,121,32,114,117,110,110,105,110,103,32,115,104,111,101,32,119,105,116,104,32,115,111,102,116,32,99,117,115,104,105,111,110,105,110,103,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.729Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.729Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,79,69,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,48,55,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,90,111,111,109,32,70,108,121,32,53,34,44,34,100,101,116,97,105,108,115,34,58,34,83,112,101,101,100,45,111,114,105,101,110,116,101,100,32,116,114,97,105,110,101,114,32,119,105,116,104,32,112,114,111,112,117,108,115,105,118,101,32,102,101,101,108,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.729Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.729Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,79,69,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,48,56,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,70,114,101,101,32,82,78,32,78,78,34,44,34,100,101,116,97,105,108,115,34,58,34,78,97,116,117,114,97,108,32,114,105,100,101,32,115,104,111,101,32,102,111,114,32,115,104,111,114,116,32,100,105,115,116,97,110,99,101,115,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.729Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.729Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,79,69,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,48,57,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,65,105,114,32,77,97,120,32,57,55,34,44,34,100,101,116,97,105,108,115,34,58,34,82,101,116,114,111,32,108,105,102,101,115,116,121,108,101,32,115,104,111,101,32,119,105,116,104,32,118,105,115,105,98,108,101,32,65,105,114,32,117,110,105,116,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.730Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.730Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,73,82,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,110,117,108,108,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,65,116,104,108,101,116,105,99,32,83,104,105,114,116,115,34,44,34,100,101,116,97,105,108,115,34,58,34,80,101,114,102,111,114,109,97,110,99,101,32,116,111,112,115,32,102,111,114,32,116,114,97,105,110,105,110,103,34,44,34,102,105,101,108,100,53,34,58,34,114,117,110,110,105,110,103,34,44,34,102,105,101,108,100,54,34,58,34,111,114,32,99,97,115,117,97,108,32,119,101,97,114,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.730Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.730Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,73,82,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,49,48,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,68,114,105,45,70,73,84,32,76,101,103,101,110,100,32,84,101,101,34,44,34,100,101,116,97,105,108,115,34,58,34,77,111,105,115,116,117,114,101,45,119,105,99,107,105,110,103,32,116,114,97,105,110,105,110,103,32,115,104,105,114,116,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.730Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.730Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,73,82,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,49,49,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,80,114,111,32,70,105,116,116,101,100,32,84,111,112,34,44,34,100,101,116,97,105,108,115,34,58,34,67,111,109,112,114,101,115,115,105,111,110,45,115,116,121,108,101,32,112,101,114,102,111,114,109,97,110,99,101,32,98,97,115,101,32,108,97,121,101,114,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.731Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.731Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,73,82,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,49,50,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,83,112,111,114,116,115,119,101,97,114,32,67,108,117,98,32,84,101,101,34,44,34,100,101,116,97,105,108,115,34,58,34,67,111,116,116,111,110,32,99,114,101,119,110,101,99,107,32,115,104,105,114,116,32,119,105,116,104,32,78,105,107,101,32,108,111,103,111,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.731Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.731Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,73,82,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,49,51,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,84,114,97,105,108,32,83,104,111,114,116,45,83,108,101,101,118,101,32,84,111,112,34,44,34,100,101,116,97,105,108,115,34,58,34,66,114,101,97,116,104,97,98,108,101,32,115,104,105,114,116,32,102,111,114,32,116,114,97,105,108,32,114,117,110,110,105,110,103,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.731Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.731Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,73,82,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,49,52,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,68,114,105,45,70,73,84,32,82,105,115,101,32,51,54,53,34,44,34,100,101,116,97,105,108,115,34,58,34,76,105,103,104,116,119,101,105,103,104,116,32,97,110,100,32,118,101,110,116,105,108,97,116,101,100,32,102,111,114,32,108,111,110,103,32,114,117,110,115,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.731Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.731Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,73,82,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,49,53,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,78,66,65,32,83,119,105,110,103,109,97,110,32,74,101,114,115,101,121,34,44,34,100,101,116,97,105,108,115,34,58,34,82,101,112,108,105,99,97,32,106,101,114,115,101,121,32,102,111,114,32,102,97,110,115,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.732Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.732Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,73,82,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,49,54,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,84,104,101,114,109,97,45,70,73,84,32,76,111,110,103,32,83,108,101,101,118,101,34,44,34,100,101,116,97,105,108,115,34,58,34,84,104,101,114,109,97,108,32,115,104,105,114,116,32,102,111,114,32,99,111,108,100,32,116,114,97,105,110,105,110,103,32,100,97,121,115,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.732Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.732Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,73,82,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,49,55,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,83,119,111,111,115,104,32,79,118,101,114,115,105,122,101,100,32,84,101,101,34,44,34,100,101,116,97,105,108,115,34,58,34,82,101,108,97,120,101,100,32,102,105,116,32,102,97,115,104,105,111,110,45,102,111,114,119,97,114,100,32,115,104,105,114,116,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.732Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.732Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,83,72,73,82,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,49,56,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,67,111,117,114,116,32,68,114,105,45,70,73,84,32,84,101,110,110,105,115,32,84,111,112,34,44,34,100,101,116,97,105,108,115,34,58,34,84,111,112,32,100,101,115,105,103,110,101,100,32,102,111,114,32,109,111,118,101,109,101,110,116,32,97,110,100,32,115,101,114,118,101,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.732Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.733Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,74,65,67,75,69,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,110,117,108,108,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,79,117,116,101,114,119,101,97,114,32,74,97,99,107,101,116,115,34,44,34,100,101,116,97,105,108,115,34,58,34,76,97,121,101,114,101,100,32,103,101,97,114,32,98,117,105,108,116,32,102,111,114,32,119,97,114,109,116,104,32,97,110,100,32,115,112,111,114,116,32,117,116,105,108,105,116,121,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.733Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.733Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,74,65,67,75,69,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,49,57,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,87,105,110,100,114,117,110,110,101,114,34,44,34,100,101,116,97,105,108,115,34,58,34,73,99,111,110,105,99,32,108,105,103,104,116,119,101,105,103,104,116,32,114,117,110,110,105,110,103,32,106,97,99,107,101,116,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.733Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.733Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,74,65,67,75,69,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,50,48,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,84,104,101,114,109,97,45,70,73,84,32,82,101,112,101,108,32,74,97,99,107,101,116,34,44,34,100,101,116,97,105,108,115,34,58,34,87,97,116,101,114,45,114,101,112,101,108,108,101,110,116,32,105,110,115,117,108,97,116,101,100,32,106,97,99,107,101,116,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.733Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.733Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,74,65,67,75,69,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,50,49,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,84,101,99,104,32,70,108,101,101,99,101,32,70,117,108,108,45,90,105,112,34,44,34,100,101,116,97,105,108,115,34,58,34,83,116,121,108,105,115,104,32,97,110,100,32,109,111,100,101,114,110,32,102,108,101,101,99,101,32,102,111,114,32,101,118,101,114,121,100,97,121,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.734Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.734Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,74,65,67,75,69,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,50,50,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,83,112,111,114,116,115,119,101,97,114,32,80,117,102,102,101,114,34,44,34,100,101,116,97,105,108,115,34,58,34,87,105,110,116,101,114,45,114,101,97,100,121,32,119,97,114,109,116,104,32,97,110,100,32,117,116,105,108,105,116,121,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.734Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.734Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,74,65,67,75,69,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,50,51,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,65,67,71,32,83,110,111,119,103,114,97,115,115,32,80,117,108,108,111,118,101,114,34,44,34,100,101,116,97,105,108,115,34,58,34,79,117,116,100,111,111,114,45,114,101,97,100,121,32,103,101,97,114,32,102,111,114,32,109,111,117,110,116,97,105,110,32,99,108,105,109,97,116,101,115,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.734Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.734Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,74,65,67,75,69,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,50,52,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,83,116,111,114,109,45,70,73,84,32,65,68,86,32,82,117,110,32,68,105,118,105,115,105,111,110,34,44,34,100,101,116,97,105,108,115,34,58,34,82,97,105,110,45,114,101,97,100,121,32,114,117,110,110,105,110,103,32,108,97,121,101,114,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.734Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.735Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,74,65,67,75,69,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,50,53,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,89,111,103,97,32,68,114,105,45,70,73,84,32,74,97,99,107,101,116,34,44,34,100,101,116,97,105,108,115,34,58,34,83,116,114,101,116,99,104,121,32,97,110,100,32,115,111,102,116,32,112,111,115,116,45,119,111,114,107,111,117,116,32,112,105,101,99,101,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.735Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.735Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,74,65,67,75,69,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,50,54,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,84,114,97,105,108,32,82,117,110,110,105,110,103,32,74,97,99,107,101,116,34,44,34,100,101,116,97,105,108,115,34,58,34,80,97,99,107,97,98,108,101,32,97,110,100,32,119,105,110,100,112,114,111,111,102,32,116,114,97,105,108,32,106,97,99,107,101,116,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.735Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.735Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,74,65,67,75,69,84,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,50,55,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,83,66,32,65,110,111,114,97,107,34,44,34,100,101,116,97,105,108,115,34,58,34,83,107,97,116,101,98,111,97,114,100,105,110,103,32,104,97,108,102,45,122,105,112,32,119,105,110,100,98,114,101,97,107,101,114,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.735Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.735Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,66,65,71,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,110,117,108,108,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,69,113,117,105,112,109,101,110,116,32,66,97,103,115,34,44,34,100,101,116,97,105,108,115,34,58,34,70,117,110,99,116,105,111,110,97,108,32,97,110,100,32,115,116,121,108,105,115,104,32,98,97,103,115,32,102,111,114,32,115,112,111,114,116,32,97,110,100,32,100,97,105,108,121,32,117,115,101,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.735Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.735Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,66,65,71,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,50,56,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,66,114,97,115,105,108,105,97,32,84,114,97,105,110,105,110,103,32,68,117,102,102,101,108,34,44,34,100,101,116,97,105,108,115,34,58,34,67,108,97,115,115,105,99,32,103,121,109,32,98,97,103,32,119,105,116,104,32,99,111,109,112,97,114,116,109,101,110,116,115,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.736Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.736Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,66,65,71,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,50,57,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,72,101,114,105,116,97,103,101,32,66,97,99,107,112,97,99,107,34,44,34,100,101,116,97,105,108,115,34,58,34,86,105,110,116,97,103,101,32,115,116,121,108,101,32,119,105,116,104,32,109,111,100,101,114,110,32,117,116,105,108,105,116,121,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.736Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.736Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,66,65,71,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,51,48,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,85,116,105,108,105,116,121,32,83,112,101,101,100,32,66,97,99,107,112,97,99,107,34,44,34,100,101,116,97,105,108,115,34,58,34,81,117,105,99,107,45,97,99,99,101,115,115,32,100,117,114,97,98,108,101,32,98,97,103,32,102,111,114,32,97,116,104,108,101,116,101,115,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.736Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.736Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,66,65,71,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,51,49,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,72,111,111,112,115,32,69,108,105,116,101,32,80,114,111,32,66,97,99,107,112,97,99,107,34,44,34,100,101,116,97,105,108,115,34,58,34,69,108,105,116,101,45,108,101,118,101,108,32,98,97,115,107,101,116,98,97,108,108,32,103,101,97,114,32,112,97,99,107,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.736Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.736Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,66,65,71,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,51,50,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,67,108,117,98,32,77,105,110,105,32,67,114,111,115,115,98,111,100,121,34,44,34,100,101,116,97,105,108,115,34,58,34,83,109,97,108,108,32,101,115,115,101,110,116,105,97,108,115,32,98,97,103,32,102,111,114,32,101,118,101,114,121,100,97,121,32,117,115,101,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.736Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.737Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,66,65,71,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,51,51,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,82,97,100,105,97,116,101,32,84,114,97,105,110,105,110,103,32,84,111,116,101,34,44,34,100,101,116,97,105,108,115,34,58,34,83,116,121,108,105,115,104,32,97,110,100,32,108,97,114,103,101,32,99,97,114,114,121,45,97,108,108,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.737Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.737Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,66,65,71,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,51,52,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,79,110,101,32,76,117,120,101,32,71,121,109,32,66,97,103,34,44,34,100,101,116,97,105,108,115,34,58,34,80,114,101,109,105,117,109,32,109,97,116,101,114,105,97,108,32,97,110,100,32,109,117,108,116,105,45,117,115,101,32,100,101,115,105,103,110,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.737Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.737Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,66,65,71,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,51,53,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,83,112,111,114,116,115,119,101,97,114,32,69,115,115,101,110,116,105,97,108,115,32,83,108,105,110,103,34,44,34,100,101,116,97,105,108,115,34,58,34,79,110,45,116,104,101,45,103,111,32,108,105,103,104,116,119,101,105,103,104,116,32,98,97,103,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.737Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.737Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,66,65,71,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,51,54,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,83,66,32,82,80,77,32,83,107,97,116,101,32,66,97,99,107,112,97,99,107,34,44,34,100,101,116,97,105,108,115,34,58,34,67,111,109,112,97,114,116,109,101,110,116,97,108,105,122,101,100,32,97,110,100,32,112,97,100,100,101,100,32,102,111,114,32,103,101,97,114,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.737Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.737Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,65,67,67,69,83,83,79,82,89,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,110,117,108,108,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,65,99,99,101,115,115,111,114,105,101,115,34,44,34,100,101,116,97,105,108,115,34,58,34,83,109,97,108,108,32,98,117,116,32,101,115,115,101,110,116,105,97,108,32,103,101,97,114,32,102,111,114,32,97,116,104,108,101,116,101,115,32,97,110,100,32,102,97,110,115,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.738Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.738Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,65,67,67,69,83,83,79,82,89,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,51,55,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,68,114,105,45,70,73,84,32,72,101,97,100,32,84,105,101,34,44,34,100,101,116,97,105,108,115,34,58,34,77,111,105,115,116,117,114,101,45,119,105,99,107,105,110,103,32,104,101,97,100,98,97,110,100,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.738Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.738Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,65,67,67,69,83,83,79,82,89,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,51,56,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,69,118,101,114,121,100,97,121,32,67,117,115,104,105,111,110,101,100,32,83,111,99,107,115,34,44,34,100,101,116,97,105,108,115,34,58,34,67,111,116,116,111,110,32,99,114,101,119,32,115,111,99,107,115,32,105,110,32,109,117,108,116,105,45,112,97,99,107,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.738Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.738Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,65,67,67,69,83,83,79,82,89,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,51,57,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,83,119,111,111,115,104,32,87,114,105,115,116,98,97,110,100,115,34,44,34,100,101,116,97,105,108,115,34,58,34,65,98,115,111,114,98,101,110,116,32,102,111,114,32,104,105,103,104,45,105,110,116,101,110,115,105,116,121,32,115,112,111,114,116,115,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.738Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.738Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,65,67,67,69,83,83,79,82,89,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,52,48,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,80,114,111,32,84,114,97,105,110,105,110,103,32,71,108,111,118,101,115,34,44,34,100,101,116,97,105,108,115,34,58,34,87,101,105,103,104,116,108,105,102,116,105,110,103,32,103,108,111,118,101,115,32,119,105,116,104,32,103,114,105,112,32,112,97,100,115,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.738Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.738Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,65,67,67,69,83,83,79,82,89,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,52,49,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,76,105,103,104,116,119,101,105,103,104,116,32,82,117,110,110,105,110,103,32,71,108,111,118,101,115,34,44,34,100,101,116,97,105,108,115,34,58,34,84,104,101,114,109,97,108,32,103,108,111,118,101,115,32,102,111,114,32,99,111,108,100,32,119,101,97,116,104,101,114,32,114,117,110,115,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.739Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.739Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,65,67,67,69,83,83,79,82,89,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,52,50,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,82,101,99,111,118,101,114,121,32,70,111,97,109,32,82,111,108,108,101,114,34,44,34,100,101,116,97,105,108,115,34,58,34,70,105,114,109,45,100,101,110,115,105,116,121,32,114,111,108,108,101,114,32,102,111,114,32,109,117,115,99,108,101,32,116,104,101,114,97,112,121,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.739Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.739Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,65,67,67,69,83,83,79,82,89,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,52,51,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,72,121,100,114,97,116,105,111,110,32,87,97,116,101,114,32,66,111,116,116,108,101,34,44,34,100,101,116,97,105,108,115,34,58,34,76,101,97,107,45,112,114,111,111,102,32,98,111,116,116,108,101,32,102,111,114,32,97,116,104,108,101,116,101,115,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.739Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.739Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,65,67,67,69,83,83,79,82,89,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,52,52,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,76,97,110,121,97,114,100,32,75,101,121,99,104,97,105,110,34,44,34,100,101,116,97,105,108,115,34,58,34,68,117,114,97,98,108,101,32,97,110,100,32,98,114,97,110,100,101,100,32,102,111,114,32,100,97,105,108,121,32,119,101,97,114,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.739Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.739Z"}
+{"level":"info","message":"{\"type\":\"Buffer\",\"data\":[123,34,102,97,109,105,108,121,70,101,100,101,114,97,116,101,100,73,100,34,58,34,78,73,75,69,45,65,67,67,69,83,83,79,82,89,45,48,48,49,34,44,34,111,112,116,105,111,110,70,101,100,101,114,97,116,101,100,73,100,34,58,34,79,80,84,45,48,48,52,53,34,44,34,116,105,116,108,101,34,58,34,78,105,107,101,32,69,118,101,114,121,100,97,121,32,70,97,99,101,32,77,97,115,107,34,44,34,100,101,116,97,105,108,115,34,58,34,82,101,117,115,97,98,108,101,32,97,110,100,32,98,114,101,97,116,104,97,98,108,101,32,102,97,99,101,32,99,111,118,101,114,105,110,103,46,34,125,10]}","timestamp":"2025-07-26T22:15:48.741Z"}
+{"error":{},"level":"error","message":"(1a3b95d12192140f8d54014e0e387dfe: Line 1) Could not transform record","timestamp":"2025-07-26T22:15:48.741Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2025-07-26T22:16:25.972Z"}
+{"level":"info","message":"Extract b8a2550c3de0f0229657913b7299548f launched","timestamp":"2025-07-26T22:16:39.122Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHOE-001\\\",\\\"optionFederatedId\\\":null,\\\"title\\\":\\\"Nike Running Shoes\\\",\\\"details\\\":\\\"Performance shoes for daily training and racing.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.131Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.132Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHOE-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0001\\\",\\\"title\\\":\\\"Nike Air Zoom Pegasus 40\\\",\\\"details\\\":\\\"Responsive cushioning and breathable upper.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.132Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.132Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHOE-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0002\\\",\\\"title\\\":\\\"Nike InfinityRN 4\\\",\\\"details\\\":\\\"Stable long-distance shoe with ReactX foam.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.133Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.133Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHOE-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0003\\\",\\\"title\\\":\\\"Nike Vaporfly 3\\\",\\\"details\\\":\\\"Elite racing shoe with carbon plate.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.133Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.133Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHOE-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0004\\\",\\\"title\\\":\\\"Nike ZoomX Streakfly\\\",\\\"details\\\":\\\"Lightweight race day shoe.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.134Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.134Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHOE-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0005\\\",\\\"title\\\":\\\"Nike Wildhorse 8\\\",\\\"details\\\":\\\"Trail running shoe with rock plate.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.134Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.134Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHOE-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0006\\\",\\\"title\\\":\\\"Nike Revolution 6\\\",\\\"details\\\":\\\"Everyday running shoe with soft cushioning.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.134Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.134Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHOE-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0007\\\",\\\"title\\\":\\\"Nike Zoom Fly 5\\\",\\\"details\\\":\\\"Speed-oriented trainer with propulsive feel.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.134Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.135Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHOE-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0008\\\",\\\"title\\\":\\\"Nike Free RN NN\\\",\\\"details\\\":\\\"Natural ride shoe for short distances.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.135Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.135Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHOE-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0009\\\",\\\"title\\\":\\\"Nike Air Max 97\\\",\\\"details\\\":\\\"Retro lifestyle shoe with visible Air unit.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.135Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.135Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHIRT-001\\\",\\\"optionFederatedId\\\":null,\\\"title\\\":\\\"Nike Athletic Shirts\\\",\\\"details\\\":\\\"Performance tops for training\\\",\\\"field5\\\":\\\"running\\\",\\\"field6\\\":\\\"or casual wear.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.135Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.136Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHIRT-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0010\\\",\\\"title\\\":\\\"Nike Dri-FIT Legend Tee\\\",\\\"details\\\":\\\"Moisture-wicking training shirt.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.136Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.136Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHIRT-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0011\\\",\\\"title\\\":\\\"Nike Pro Fitted Top\\\",\\\"details\\\":\\\"Compression-style performance base layer.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.136Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.136Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHIRT-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0012\\\",\\\"title\\\":\\\"Nike Sportswear Club Tee\\\",\\\"details\\\":\\\"Cotton crewneck shirt with Nike logo.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.136Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.136Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHIRT-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0013\\\",\\\"title\\\":\\\"Nike Trail Short-Sleeve Top\\\",\\\"details\\\":\\\"Breathable shirt for trail running.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.136Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.137Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHIRT-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0014\\\",\\\"title\\\":\\\"Nike Dri-FIT Rise 365\\\",\\\"details\\\":\\\"Lightweight and ventilated for long runs.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.137Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.137Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHIRT-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0015\\\",\\\"title\\\":\\\"Nike NBA Swingman Jersey\\\",\\\"details\\\":\\\"Replica jersey for fans.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.137Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.137Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHIRT-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0016\\\",\\\"title\\\":\\\"Nike Therma-FIT Long Sleeve\\\",\\\"details\\\":\\\"Thermal shirt for cold training days.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.137Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.137Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHIRT-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0017\\\",\\\"title\\\":\\\"Nike Swoosh Oversized Tee\\\",\\\"details\\\":\\\"Relaxed fit fashion-forward shirt.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.137Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.138Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-SHIRT-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0018\\\",\\\"title\\\":\\\"Nike Court Dri-FIT Tennis Top\\\",\\\"details\\\":\\\"Top designed for movement and serve.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.138Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.138Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-JACKET-001\\\",\\\"optionFederatedId\\\":null,\\\"title\\\":\\\"Nike Outerwear Jackets\\\",\\\"details\\\":\\\"Layered gear built for warmth and sport utility.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.138Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.138Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-JACKET-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0019\\\",\\\"title\\\":\\\"Nike Windrunner\\\",\\\"details\\\":\\\"Iconic lightweight running jacket.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.138Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.138Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-JACKET-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0020\\\",\\\"title\\\":\\\"Nike Therma-FIT Repel Jacket\\\",\\\"details\\\":\\\"Water-repellent insulated jacket.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.138Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.138Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-JACKET-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0021\\\",\\\"title\\\":\\\"Nike Tech Fleece Full-Zip\\\",\\\"details\\\":\\\"Stylish and modern fleece for everyday.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.139Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.139Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-JACKET-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0022\\\",\\\"title\\\":\\\"Nike Sportswear Puffer\\\",\\\"details\\\":\\\"Winter-ready warmth and utility.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.139Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.139Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-JACKET-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0023\\\",\\\"title\\\":\\\"Nike ACG Snowgrass Pullover\\\",\\\"details\\\":\\\"Outdoor-ready gear for mountain climates.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.139Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.139Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-JACKET-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0024\\\",\\\"title\\\":\\\"Nike Storm-FIT ADV Run Division\\\",\\\"details\\\":\\\"Rain-ready running layer.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.139Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.139Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-JACKET-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0025\\\",\\\"title\\\":\\\"Nike Yoga Dri-FIT Jacket\\\",\\\"details\\\":\\\"Stretchy and soft post-workout piece.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.139Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.139Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-JACKET-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0026\\\",\\\"title\\\":\\\"Nike Trail Running Jacket\\\",\\\"details\\\":\\\"Packable and windproof trail jacket.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.140Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.140Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-JACKET-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0027\\\",\\\"title\\\":\\\"Nike SB Anorak\\\",\\\"details\\\":\\\"Skateboarding half-zip windbreaker.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.140Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.140Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-BAG-001\\\",\\\"optionFederatedId\\\":null,\\\"title\\\":\\\"Nike Equipment Bags\\\",\\\"details\\\":\\\"Functional and stylish bags for sport and daily use.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.140Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.140Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-BAG-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0028\\\",\\\"title\\\":\\\"Nike Brasilia Training Duffel\\\",\\\"details\\\":\\\"Classic gym bag with compartments.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.140Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.140Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-BAG-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0029\\\",\\\"title\\\":\\\"Nike Heritage Backpack\\\",\\\"details\\\":\\\"Vintage style with modern utility.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.140Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.140Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-BAG-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0030\\\",\\\"title\\\":\\\"Nike Utility Speed Backpack\\\",\\\"details\\\":\\\"Quick-access durable bag for athletes.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.141Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.141Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-BAG-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0031\\\",\\\"title\\\":\\\"Nike Hoops Elite Pro Backpack\\\",\\\"details\\\":\\\"Elite-level basketball gear pack.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.141Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.141Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-BAG-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0032\\\",\\\"title\\\":\\\"Nike Club Mini Crossbody\\\",\\\"details\\\":\\\"Small essentials bag for everyday use.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.141Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.141Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-BAG-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0033\\\",\\\"title\\\":\\\"Nike Radiate Training Tote\\\",\\\"details\\\":\\\"Stylish and large carry-all.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.141Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.141Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-BAG-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0034\\\",\\\"title\\\":\\\"Nike One Luxe Gym Bag\\\",\\\"details\\\":\\\"Premium material and multi-use design.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.141Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.142Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-BAG-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0035\\\",\\\"title\\\":\\\"Nike Sportswear Essentials Sling\\\",\\\"details\\\":\\\"On-the-go lightweight bag.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.142Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.142Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-BAG-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0036\\\",\\\"title\\\":\\\"Nike SB RPM Skate Backpack\\\",\\\"details\\\":\\\"Compartmentalized and padded for gear.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.142Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.142Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-ACCESSORY-001\\\",\\\"optionFederatedId\\\":null,\\\"title\\\":\\\"Nike Accessories\\\",\\\"details\\\":\\\"Small but essential gear for athletes and fans.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.142Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.142Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-ACCESSORY-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0037\\\",\\\"title\\\":\\\"Nike Dri-FIT Head Tie\\\",\\\"details\\\":\\\"Moisture-wicking headband.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.142Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.142Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-ACCESSORY-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0038\\\",\\\"title\\\":\\\"Nike Everyday Cushioned Socks\\\",\\\"details\\\":\\\"Cotton crew socks in multi-pack.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.143Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.143Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-ACCESSORY-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0039\\\",\\\"title\\\":\\\"Nike Swoosh Wristbands\\\",\\\"details\\\":\\\"Absorbent for high-intensity sports.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.143Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.143Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-ACCESSORY-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0040\\\",\\\"title\\\":\\\"Nike Pro Training Gloves\\\",\\\"details\\\":\\\"Weightlifting gloves with grip pads.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.143Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.143Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-ACCESSORY-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0041\\\",\\\"title\\\":\\\"Nike Lightweight Running Gloves\\\",\\\"details\\\":\\\"Thermal gloves for cold weather runs.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.143Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.143Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-ACCESSORY-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0042\\\",\\\"title\\\":\\\"Nike Recovery Foam Roller\\\",\\\"details\\\":\\\"Firm-density roller for muscle therapy.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.143Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.144Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-ACCESSORY-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0043\\\",\\\"title\\\":\\\"Nike Hydration Water Bottle\\\",\\\"details\\\":\\\"Leak-proof bottle for athletes.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.144Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.144Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-ACCESSORY-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0044\\\",\\\"title\\\":\\\"Nike Lanyard Keychain\\\",\\\"details\\\":\\\"Durable and branded for daily wear.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.144Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.145Z"}
+{"level":"info","message":"\"{\\\"familyFederatedId\\\":\\\"NIKE-ACCESSORY-001\\\",\\\"optionFederatedId\\\":\\\"OPT-0045\\\",\\\"title\\\":\\\"Nike Everyday Face Mask\\\",\\\"details\\\":\\\"Reusable and breathable face covering.\\\"}\\n\"","timestamp":"2025-07-26T22:16:39.147Z"}
+{"error":{},"level":"error","message":"(b8a2550c3de0f0229657913b7299548f: Line 1) Could not transform record","timestamp":"2025-07-26T22:16:39.147Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2025-07-26T22:19:34.240Z"}
+{"level":"info","message":"Extract d1c38d69298e06edf87c7ab7711b2355 launched","timestamp":"2025-07-26T22:19:37.204Z"}
+{"level":"info","message":{"details":"Performance shoes for daily training and racing.","familyFederatedId":"NIKE-SHOE-001","optionFederatedId":null,"title":"Nike Running Shoes"},"timestamp":"2025-07-26T22:19:37.213Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.214Z"}
+{"level":"info","message":{"details":"Responsive cushioning and breathable upper.","familyFederatedId":"NIKE-SHOE-001","optionFederatedId":"OPT-0001","title":"Nike Air Zoom Pegasus 40"},"timestamp":"2025-07-26T22:19:37.214Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.215Z"}
+{"level":"info","message":{"details":"Stable long-distance shoe with ReactX foam.","familyFederatedId":"NIKE-SHOE-001","optionFederatedId":"OPT-0002","title":"Nike InfinityRN 4"},"timestamp":"2025-07-26T22:19:37.215Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.215Z"}
+{"level":"info","message":{"details":"Elite racing shoe with carbon plate.","familyFederatedId":"NIKE-SHOE-001","optionFederatedId":"OPT-0003","title":"Nike Vaporfly 3"},"timestamp":"2025-07-26T22:19:37.215Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.216Z"}
+{"level":"info","message":{"details":"Lightweight race day shoe.","familyFederatedId":"NIKE-SHOE-001","optionFederatedId":"OPT-0004","title":"Nike ZoomX Streakfly"},"timestamp":"2025-07-26T22:19:37.216Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.216Z"}
+{"level":"info","message":{"details":"Trail running shoe with rock plate.","familyFederatedId":"NIKE-SHOE-001","optionFederatedId":"OPT-0005","title":"Nike Wildhorse 8"},"timestamp":"2025-07-26T22:19:37.216Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.216Z"}
+{"level":"info","message":{"details":"Everyday running shoe with soft cushioning.","familyFederatedId":"NIKE-SHOE-001","optionFederatedId":"OPT-0006","title":"Nike Revolution 6"},"timestamp":"2025-07-26T22:19:37.216Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.217Z"}
+{"level":"info","message":{"details":"Speed-oriented trainer with propulsive feel.","familyFederatedId":"NIKE-SHOE-001","optionFederatedId":"OPT-0007","title":"Nike Zoom Fly 5"},"timestamp":"2025-07-26T22:19:37.217Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.217Z"}
+{"level":"info","message":{"details":"Natural ride shoe for short distances.","familyFederatedId":"NIKE-SHOE-001","optionFederatedId":"OPT-0008","title":"Nike Free RN NN"},"timestamp":"2025-07-26T22:19:37.217Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.217Z"}
+{"level":"info","message":{"details":"Retro lifestyle shoe with visible Air unit.","familyFederatedId":"NIKE-SHOE-001","optionFederatedId":"OPT-0009","title":"Nike Air Max 97"},"timestamp":"2025-07-26T22:19:37.217Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.217Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:19:37.218Z"}
+{"level":"info","message":"(d1c38d69298e06edf87c7ab7711b2355) Flushing 10 records from queue","timestamp":"2025-07-26T22:19:37.220Z"}
+{"level":"info","message":"(d1c38d69298e06edf87c7ab7711b2355) Cleaning up records from queue","timestamp":"2025-07-26T22:19:37.549Z"}
+{"level":"info","message":{"details":"Performance tops for training","familyFederatedId":"NIKE-SHIRT-001","field5":"running","field6":"or casual wear.","optionFederatedId":null,"title":"Nike Athletic Shirts"},"timestamp":"2025-07-26T22:19:37.549Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.549Z"}
+{"level":"info","message":{"details":"Moisture-wicking training shirt.","familyFederatedId":"NIKE-SHIRT-001","optionFederatedId":"OPT-0010","title":"Nike Dri-FIT Legend Tee"},"timestamp":"2025-07-26T22:19:37.549Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.549Z"}
+{"level":"info","message":{"details":"Compression-style performance base layer.","familyFederatedId":"NIKE-SHIRT-001","optionFederatedId":"OPT-0011","title":"Nike Pro Fitted Top"},"timestamp":"2025-07-26T22:19:37.549Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.550Z"}
+{"level":"info","message":{"details":"Cotton crewneck shirt with Nike logo.","familyFederatedId":"NIKE-SHIRT-001","optionFederatedId":"OPT-0012","title":"Nike Sportswear Club Tee"},"timestamp":"2025-07-26T22:19:37.550Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.550Z"}
+{"level":"info","message":{"details":"Breathable shirt for trail running.","familyFederatedId":"NIKE-SHIRT-001","optionFederatedId":"OPT-0013","title":"Nike Trail Short-Sleeve Top"},"timestamp":"2025-07-26T22:19:37.550Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.550Z"}
+{"level":"info","message":{"details":"Lightweight and ventilated for long runs.","familyFederatedId":"NIKE-SHIRT-001","optionFederatedId":"OPT-0014","title":"Nike Dri-FIT Rise 365"},"timestamp":"2025-07-26T22:19:37.550Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.550Z"}
+{"level":"info","message":{"details":"Replica jersey for fans.","familyFederatedId":"NIKE-SHIRT-001","optionFederatedId":"OPT-0015","title":"Nike NBA Swingman Jersey"},"timestamp":"2025-07-26T22:19:37.550Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.551Z"}
+{"level":"info","message":{"details":"Thermal shirt for cold training days.","familyFederatedId":"NIKE-SHIRT-001","optionFederatedId":"OPT-0016","title":"Nike Therma-FIT Long Sleeve"},"timestamp":"2025-07-26T22:19:37.551Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.551Z"}
+{"level":"info","message":{"details":"Relaxed fit fashion-forward shirt.","familyFederatedId":"NIKE-SHIRT-001","optionFederatedId":"OPT-0017","title":"Nike Swoosh Oversized Tee"},"timestamp":"2025-07-26T22:19:37.551Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.551Z"}
+{"level":"info","message":{"details":"Top designed for movement and serve.","familyFederatedId":"NIKE-SHIRT-001","optionFederatedId":"OPT-0018","title":"Nike Court Dri-FIT Tennis Top"},"timestamp":"2025-07-26T22:19:37.551Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:19:37.551Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:19:37.551Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2025-07-26T22:20:19.251Z"}
+{"level":"info","message":"Extract 42d734db850dca0a3a9291804c55831c launched","timestamp":"2025-07-26T22:20:23.285Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.297Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.298Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.298Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.298Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.298Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.299Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.299Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.299Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.299Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.300Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:20:23.300Z"}
+{"level":"info","message":"(42d734db850dca0a3a9291804c55831c) Flushing 10 records from queue","timestamp":"2025-07-26T22:20:23.302Z"}
+{"level":"info","message":"(42d734db850dca0a3a9291804c55831c) Cleaning up records from queue","timestamp":"2025-07-26T22:20:23.494Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.494Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.494Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.494Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.495Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.495Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.495Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.495Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.495Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.495Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:20:23.495Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:20:23.496Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2025-07-26T22:25:50.430Z"}
+{"level":"info","message":"Extract 94e7fe33f36ed2d68225e7503501387c launched","timestamp":"2025-07-26T22:25:52.890Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.899Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.900Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.900Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.900Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.901Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.901Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.901Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.901Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.902Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.902Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:25:52.902Z"}
+{"level":"info","message":"(94e7fe33f36ed2d68225e7503501387c) Flushing 10 records from queue","timestamp":"2025-07-26T22:25:52.904Z"}
+{"level":"info","message":"(94e7fe33f36ed2d68225e7503501387c) Cleaning up records from queue","timestamp":"2025-07-26T22:25:52.939Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.939Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.939Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.940Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.940Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.940Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.940Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.940Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.940Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.941Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:25:52.941Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:25:52.941Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2025-07-26T22:26:41.776Z"}
+{"level":"info","message":"Extract ab333610e1f6eceb8697eaa52996088e launched","timestamp":"2025-07-26T22:26:42.580Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.591Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.591Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.591Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.592Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.592Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.592Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.592Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.592Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.593Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.593Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:26:42.593Z"}
+{"level":"info","message":"Calling flush","timestamp":"2025-07-26T22:26:42.593Z"}
+{"level":"info","message":"(ab333610e1f6eceb8697eaa52996088e) Flushing 10 records from queue","timestamp":"2025-07-26T22:26:42.594Z"}
+{"level":"info","message":"(ab333610e1f6eceb8697eaa52996088e) Cleaning up records from queue","timestamp":"2025-07-26T22:26:42.639Z"}
+{"level":"info","message":"Calling resume","timestamp":"2025-07-26T22:26:42.639Z"}
+{"level":"info","message":"Resuming stream","timestamp":"2025-07-26T22:26:42.640Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.640Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.640Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.640Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.641Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.641Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.641Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.641Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.641Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.642Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.642Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:26:42.642Z"}
+{"level":"info","message":"Calling flush","timestamp":"2025-07-26T22:26:42.642Z"}
+{"level":"info","message":"(ab333610e1f6eceb8697eaa52996088e) Flushing 10 records from queue","timestamp":"2025-07-26T22:26:42.642Z"}
+{"level":"info","message":"(ab333610e1f6eceb8697eaa52996088e) Cleaning up records from queue","timestamp":"2025-07-26T22:26:42.648Z"}
+{"level":"info","message":"Calling resume","timestamp":"2025-07-26T22:26:42.649Z"}
+{"level":"info","message":"Resuming stream","timestamp":"2025-07-26T22:26:42.649Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.649Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.649Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.649Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.649Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.650Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.650Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.650Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.650Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.650Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.650Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:26:42.650Z"}
+{"level":"info","message":"Calling flush","timestamp":"2025-07-26T22:26:42.650Z"}
+{"level":"info","message":"(ab333610e1f6eceb8697eaa52996088e) Flushing 10 records from queue","timestamp":"2025-07-26T22:26:42.650Z"}
+{"level":"info","message":"(ab333610e1f6eceb8697eaa52996088e) Cleaning up records from queue","timestamp":"2025-07-26T22:26:42.656Z"}
+{"level":"info","message":"Calling resume","timestamp":"2025-07-26T22:26:42.656Z"}
+{"level":"info","message":"Resuming stream","timestamp":"2025-07-26T22:26:42.656Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.656Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.656Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.656Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.657Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.657Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.657Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.657Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.657Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.657Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.657Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:26:42.657Z"}
+{"level":"info","message":"Calling flush","timestamp":"2025-07-26T22:26:42.657Z"}
+{"level":"info","message":"(ab333610e1f6eceb8697eaa52996088e) Flushing 10 records from queue","timestamp":"2025-07-26T22:26:42.657Z"}
+{"level":"info","message":"(ab333610e1f6eceb8697eaa52996088e) Cleaning up records from queue","timestamp":"2025-07-26T22:26:42.664Z"}
+{"level":"info","message":"Calling resume","timestamp":"2025-07-26T22:26:42.664Z"}
+{"level":"info","message":"Resuming stream","timestamp":"2025-07-26T22:26:42.665Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.665Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.665Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.665Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.665Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.665Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.665Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.666Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.666Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.666Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:26:42.666Z"}
+{"level":"info","message":"Pausing stream to flush","timestamp":"2025-07-26T22:26:42.666Z"}
+{"level":"info","message":"Calling flush","timestamp":"2025-07-26T22:26:42.666Z"}
+{"level":"info","message":"(ab333610e1f6eceb8697eaa52996088e) Flushing 10 records from queue","timestamp":"2025-07-26T22:26:42.666Z"}
+{"level":"info","message":"(ab333610e1f6eceb8697eaa52996088e) Cleaning up records from queue","timestamp":"2025-07-26T22:26:42.674Z"}
+{"level":"info","message":"Calling resume","timestamp":"2025-07-26T22:26:42.674Z"}
+{"level":"info","message":"Resuming stream","timestamp":"2025-07-26T22:26:42.674Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2025-07-26T22:27:19.967Z"}
+{"level":"info","message":"Extract a18f5a187b92ddd263878c47988c0099 launched","timestamp":"2025-07-26T22:27:22.458Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.468Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.469Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.469Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.469Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.470Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.470Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.470Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.470Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.470Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.471Z"}
+{"level":"info","message":"(a18f5a187b92ddd263878c47988c0099) Flushing 10 records from queue","timestamp":"2025-07-26T22:27:22.471Z"}
+{"level":"info","message":"(a18f5a187b92ddd263878c47988c0099) Cleaning up records from queue","timestamp":"2025-07-26T22:27:22.658Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.658Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.659Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.659Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.659Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.659Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.659Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.659Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.660Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.660Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.660Z"}
+{"level":"info","message":"(a18f5a187b92ddd263878c47988c0099) Flushing 10 records from queue","timestamp":"2025-07-26T22:27:22.660Z"}
+{"level":"info","message":"(a18f5a187b92ddd263878c47988c0099) Cleaning up records from queue","timestamp":"2025-07-26T22:27:22.666Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.667Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.667Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.667Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.667Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.667Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.667Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.667Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.668Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.668Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.668Z"}
+{"level":"info","message":"(a18f5a187b92ddd263878c47988c0099) Flushing 10 records from queue","timestamp":"2025-07-26T22:27:22.668Z"}
+{"level":"info","message":"(a18f5a187b92ddd263878c47988c0099) Cleaning up records from queue","timestamp":"2025-07-26T22:27:22.674Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.675Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.675Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.675Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.675Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.675Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.675Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.675Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.675Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.675Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.676Z"}
+{"level":"info","message":"(a18f5a187b92ddd263878c47988c0099) Flushing 10 records from queue","timestamp":"2025-07-26T22:27:22.676Z"}
+{"level":"info","message":"(a18f5a187b92ddd263878c47988c0099) Cleaning up records from queue","timestamp":"2025-07-26T22:27:22.681Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.681Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.681Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.681Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.681Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.681Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.681Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.682Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.682Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.682Z"}
+{"level":"info","message":"Added item to queue","timestamp":"2025-07-26T22:27:22.682Z"}
+{"level":"info","message":"(a18f5a187b92ddd263878c47988c0099) Flushing 10 records from queue","timestamp":"2025-07-26T22:27:22.682Z"}
+{"level":"info","message":"(a18f5a187b92ddd263878c47988c0099) Cleaning up records from queue","timestamp":"2025-07-26T22:27:22.688Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2025-07-26T22:34:19.581Z"}
+{"extractId":"7be19f4e253bedcf271a13b9d3c1f3f8","level":"info","message":"Extract launched","timestamp":"2025-07-26T22:34:22.266Z"}
+{"extractId":"7be19f4e253bedcf271a13b9d3c1f3f8","level":"info","message":"Flushing 10 records from queue","timestamp":"2025-07-26T22:34:22.277Z"}
+{"extractId":"7be19f4e253bedcf271a13b9d3c1f3f8","level":"info","message":"Cleaning up records from queue","timestamp":"2025-07-26T22:34:22.463Z"}
+{"extractId":"7be19f4e253bedcf271a13b9d3c1f3f8","level":"info","message":"Flushing 10 records from queue","timestamp":"2025-07-26T22:34:22.464Z"}
+{"extractId":"7be19f4e253bedcf271a13b9d3c1f3f8","level":"info","message":"Cleaning up records from queue","timestamp":"2025-07-26T22:34:22.470Z"}
+{"extractId":"7be19f4e253bedcf271a13b9d3c1f3f8","level":"info","message":"Flushing 10 records from queue","timestamp":"2025-07-26T22:34:22.471Z"}
+{"extractId":"7be19f4e253bedcf271a13b9d3c1f3f8","level":"info","message":"Cleaning up records from queue","timestamp":"2025-07-26T22:34:22.476Z"}
+{"extractId":"7be19f4e253bedcf271a13b9d3c1f3f8","level":"info","message":"Flushing 10 records from queue","timestamp":"2025-07-26T22:34:22.476Z"}
+{"extractId":"7be19f4e253bedcf271a13b9d3c1f3f8","level":"info","message":"Cleaning up records from queue","timestamp":"2025-07-26T22:34:22.481Z"}
+{"extractId":"7be19f4e253bedcf271a13b9d3c1f3f8","level":"info","message":"Flushing 10 records from queue","timestamp":"2025-07-26T22:34:22.481Z"}
+{"extractId":"7be19f4e253bedcf271a13b9d3c1f3f8","level":"info","message":"Flushing 10 records from queue","timestamp":"2025-07-26T22:34:22.482Z"}
+{"extractId":"7be19f4e253bedcf271a13b9d3c1f3f8","level":"info","message":"Cleaning up records from queue","timestamp":"2025-07-26T22:34:22.491Z"}
+{"extractId":"7be19f4e253bedcf271a13b9d3c1f3f8","level":"info","message":"Cleaning up records from queue","timestamp":"2025-07-26T22:34:22.493Z"}
+{"extractId":"7be19f4e253bedcf271a13b9d3c1f3f8","level":"info","message":"Extract completed!","timestamp":"2025-07-26T22:34:22.493Z"}

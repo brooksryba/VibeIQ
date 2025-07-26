@@ -2,6 +2,7 @@ import Logger from './logging';
 import { RoleEnum } from './enum';
 import { ItemModel, Item, Entry } from './models';
 import { ItemAPI } from './utils';
+import { Converter } from 'csvtojson/v2/Converter';
 
 export class Queue {
     // Do not exceed max batch size in one queue
@@ -9,6 +10,7 @@ export class Queue {
 
     // Store the extractId for logging purposes
     private _extractId: string;
+    private _parser: Converter;
 
     // Buffer variables only exist until the queue is flushed. Using a dictionary
     // for fast lookup of keys.
@@ -21,8 +23,9 @@ export class Queue {
     // of product categories, this could cause the memory to explode.
     private _familyItems: Record<ItemModel['federatedId'], Entry<ItemModel> | ItemModel> = {};
 
-    public constructor(extractId: string) {
+    public constructor(extractId: string, parser: Converter) {
         this._extractId = extractId;
+        this._parser = parser;
     }
 
     public async add(item: Item) {
@@ -43,9 +46,11 @@ export class Queue {
             // needs to be flushed.
             this._bufferItems[item.federatedId] = item;
             await this._check();
-        } catch (error) {
-            // This will capture errors thrown by the API.
-            Logger.error(`(${this._extractId}) Could not process records`, { error });
+        } catch (error: any) {
+            if(error instanceof Error) {
+                // This will capture errors thrown by the API.
+                Logger.error(`Could not process records`, { extractId: this._extractId, ...error });
+            }
         }
     }
 
@@ -53,7 +58,9 @@ export class Queue {
         // Only process the item queue in chunks based on the max
         // batch size of the Item API.
         if (this._bufferCount >= Queue._maxBuffer) {
+            this._parser.pause();
             await this.flush();
+            this._parser.resume();
         }
     }
 
@@ -63,16 +70,14 @@ export class Queue {
         this._bufferFamilyIds = {};
         this._bufferCount = 0;
 
-        Logger.info(`(${this._extractId}) Cleaning up records from queue`);
+        Logger.info(`Cleaning up records from queue`, { extractId: this._extractId });
     }
 
     public async flush() {
-        Logger.info(`(${this._extractId}) Flushing ${this._bufferCount} records from queue`)
+        Logger.info(`Flushing ${this._bufferCount} records from queue`, { extractId: this._extractId })
 
         const bufferItemKeys = Object.keys(this._bufferItems);
         const bufferFamilyKeys = Object.keys(this._bufferFamilyIds);
-
-        Logger.info('call5')
 
         const existingItems = await ItemAPI.getItemsByFederatedIds(bufferItemKeys);
 
@@ -87,8 +92,6 @@ export class Queue {
 
         const toCreate: Array<ItemModel> = [];
         const toUpdate: Array<Entry<ItemModel>> = [];
-
-        Logger.info('call4')
 
         // Iterate over buffer family ids and determine what to post in the database.
         // This set is a unique list, so it will only process a family once per batch
@@ -106,8 +109,6 @@ export class Queue {
                 toCreate.push(familyRecord);
             }
         });
-
-        Logger.info('call3')
 
         // Iterate over buffer items and determine what to update in database
         // and what to create in the database.
@@ -137,8 +138,6 @@ export class Queue {
             }
         });
 
-        Logger.info('call2')
-
         // Send batch requests to API. While we try to limit the queue
         // size to the max batch size for the Item API, it is possible
         // that the addition of missing family records in the batch requests
@@ -152,8 +151,6 @@ export class Queue {
         if (toCreate.length > 0) {
             await ItemAPI.postItems(toCreate);
         }
-
-        Logger.info('call1')
 
         this._cleanup();
     }

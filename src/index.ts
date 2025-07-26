@@ -29,10 +29,10 @@ app.post('/extract', upload.single('file'), (req, res) => {
         // an indication that the extract was started or let them know if there was
         // a problem initializing. Errors will be logged externally based on the UUID
         // of the uploaded file for tracking.
-        Logger.info(`Extract ${extractId} launched`);
+        Logger.info(`Extract launched`, { extractId });
         res.json({ message: `Extract ${extractId} launched` });
     } catch (e: any) {
-        Logger.error(`Extract ${extractId} could not be launched`);
+        Logger.error(`Extract could not be launched`, { extractId });
         return res.status(400).send(`Extract ${extractId} could not be launched`);
     }
 });
