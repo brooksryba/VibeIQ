@@ -69,8 +69,6 @@ export class Queue {
         this._bufferItems = {};
         this._bufferFamilyIds = {};
         this._bufferCount = 0;
-
-        Logger.info(`Cleaning up records from queue`, { extractId: this._extractId });
     }
 
     public async flush() {
