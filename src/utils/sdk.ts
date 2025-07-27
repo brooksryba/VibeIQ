@@ -1,12 +1,29 @@
 import { ItemModel, Entry, ItemsResponse } from '../models';
 import { FetchOptions } from '../models/fetch_options.model';
 import Logger from '../logging';
+import Bottleneck from 'bottleneck';
 
 export class SDK {
     private _baseURL: string;
+    private _limiter: Bottleneck;
+    private _fetch: typeof fetch;
 
     public constructor(baseURL: string) {
         this._baseURL = baseURL;
+
+        // Create an instance of the Bottleneck class
+        // which will prevent the API on Lambda from being
+        // called more than 1000 times at once. By setting
+        // highWater to null, no 'strategy' will be used which
+        // ensures that no requests will be dropped. This will come
+        // at the expense of higer memory while the service is continuing
+        // to queue records.
+        this._limiter = new Bottleneck({
+            maxConcurrent: 100,
+            highWater: null,
+        })
+
+        this._fetch = this._limiter.wrap(fetch);
     }
 
     public async chunk<T>(
@@ -30,7 +47,7 @@ export class SDK {
                 ? '?' + new URLSearchParams(queryParams as Record<string, string>).toString()
                 : '';
 
-        return fetch(`${this._baseURL}${path}${query}`, {
+        return this._fetch(`${this._baseURL}${path}${query}`, {
             method: 'GET',
             headers: {
                 Accept: 'application/json',
@@ -39,7 +56,7 @@ export class SDK {
         });
     }
     public async post(path: string, body: any, options: FetchOptions = {}): Promise<Response> {
-        return fetch(`${this._baseURL}${path}`, {
+        return this._fetch(`${this._baseURL}${path}`, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
@@ -50,7 +67,7 @@ export class SDK {
     }
 
     public async put(path: string, body: any, options: FetchOptions = {}): Promise<Response> {
-        return fetch(`${this._baseURL}${path}`, {
+        return this._fetch(`${this._baseURL}${path}`, {
             method: 'PUT',
             headers: {
                 'Content-Type': 'application/json',
@@ -67,7 +84,7 @@ export class ItemAPI {
     // In production, we would want to set this variable to 100. For testing,
     // I have reduced this value to 10 so that I can test the chunking logic
     // in conjunction with the Queue processor.
-    public static batchSize = 10;
+    public static batchSize = 100;
 
     public static async getItemsByFederatedIds(
         federatedIds: Array<ItemModel['federatedId']>
@@ -80,7 +97,7 @@ export class ItemAPI {
         const items: Array<Entry<ItemModel>> = jsonBody.items;
 
         return items.reduce<Record<Entry<ItemModel>['id'], Entry<ItemModel>>>((acc, item) => {
-            acc[item.id] = item;
+            acc[item.federatedId] = item;
             return acc;
         }, {});
     }

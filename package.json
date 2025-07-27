@@ -17,6 +17,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "bottleneck": "^2.19.5",
     "csvtojson": "^2.0.10",
     "express": "^5.1.0",
     "multer": "^2.0.2",

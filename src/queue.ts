@@ -17,6 +17,7 @@ export class Queue {
     private _bufferCount = 0;
     private _bufferItems: Record<ItemModel['federatedId'], Item> = {};
     private _bufferFamilyIds: Record<ItemModel['federatedId'], boolean> = {};
+    private _bufferDuplicates: number = 0;
 
     // Other variables persist across queue flushes for quicker lookup at the expense of higher memory.
     // TODO: Investiage record size and how many families we generally deal with. If there are a ton
@@ -65,10 +66,15 @@ export class Queue {
     }
 
     private _cleanup() {
+        if(this._bufferDuplicates > 0) {
+            Logger.info(`Skipped ${this._bufferDuplicates} duplicate records`, { extractId: this._extractId })
+        }
+
         // Clear existing queue and reset counter
         this._bufferItems = {};
         this._bufferFamilyIds = {};
         this._bufferCount = 0;
+        this._bufferDuplicates = 0;
     }
 
     public async flush() {
@@ -129,6 +135,8 @@ export class Queue {
                         id: existingItem.id,
                         ...item,
                     });
+                } else {
+                    this._bufferDuplicates++;
                 }
             } else if (!(item.federatedId in this._familyItems)) {
                 // We check to see that this is not a family that we are already planning to
